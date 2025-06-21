@@ -1,0 +1,3 @@
+1|Stationery|Office and school supplies
+2|Electronics|Devices and accessories
+3|Furniture|Chairs, desks, and storage units
